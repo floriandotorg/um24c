@@ -1,6 +1,6 @@
 # UM24C/UM25C/UM34C Power Meter UI
 
-Try it here: [https://um24c.com/](um24c.com)
+Try it here: [um24c.com](https://um24c.com/)
 
 ![Screenshot](um24c.png)
 
